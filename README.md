@@ -4,7 +4,7 @@ what is CMS Detector?<br>cms detector is a tool simple and easy to check cms on 
 
 # screnshoot
 
-![1](https://github.com/Gho0stroot/CMS_Detector/blob/master/image/ex.png)
+![1](https://github.com/Gh0stroot/CMS_Detector/tree/master/image/ex.img)
 
 # usage
 
